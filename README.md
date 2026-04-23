@@ -152,7 +152,7 @@ Transformo interações digitais em experiências humanas e agora estou mergulha
 <br/>
 
 
-### 📚 Artigos publicados
+### 📑 Artigos publicados
 <a href="https://medium.com/@contatoanefreitas/curadoria-estrategica-o-que-a-observacao-de-baleias-pode-nos-ensinar-sobre-analise-de-dados-585a987d0fb0" target="_blank">
     <img 
         alt="Artigo: Teoria da Baleia para Análise de Dados" 
