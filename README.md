@@ -48,27 +48,27 @@ Transformo interações digitais em experiências humanas e agora estou mergulha
 />
 <img 
     align="left" 
-    alt="VS Code"
-    title="VS Code" 
+    alt="AWS" 
+    title="AWS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
+/>
+<img 
+    align="left" 
+    alt="VS Code" 
+    title="VS Code"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
 />
 <img 
     align="left" 
-    alt="GitHub"
-    title="GitHub" 
+    alt="GitHub" 
+    title="GitHub"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="AWS" 
-    title="AWS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
 />
 <img 
     align="left" 
@@ -118,8 +118,16 @@ Transformo interações digitais em experiências humanas e agora estou mergulha
 />
 <img 
     align="left" 
-    alt="TensorFlow"
-    title="TensorFlow" 
+    alt="Plotly" 
+    title="Plotly"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="TensorFlow" 
+    title="TensorFlow"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" 
@@ -131,14 +139,6 @@ Transformo interações digitais em experiências humanas e agora estou mergulha
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Plotly" 
-    title="Plotly"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" 
 />
 
 <br/>
