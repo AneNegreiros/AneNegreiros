@@ -12,6 +12,13 @@
         src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"
     />
 </a>
+<a href="https://medium.com/@contatoanefreitas" target="_blank">
+    <img 
+        alt="Medium" 
+        title="Leia meus artigos no Medium" 
+        src="https://custom-icon-badges.demolab.com/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white&labelColor=000000"
+    />
+</a>
 
 Uso minha base em processos, automação e jornadas para construir soluções orientadas por dados.
 
@@ -48,27 +55,27 @@ Transformo interações digitais em experiências humanas e agora estou mergulha
 />
 <img 
     align="left" 
-    alt="AWS" 
-    title="AWS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
-/>
-<img 
-    align="left" 
-    alt="VS Code" 
-    title="VS Code"
+    alt="VS Code"
+    title="VS Code" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
 />
 <img 
     align="left" 
-    alt="GitHub" 
-    title="GitHub"
+    alt="GitHub"
+    title="GitHub" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="AWS" 
+    title="AWS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
 />
 <img 
     align="left" 
@@ -118,16 +125,8 @@ Transformo interações digitais em experiências humanas e agora estou mergulha
 />
 <img 
     align="left" 
-    alt="Plotly" 
-    title="Plotly"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TensorFlow" 
-    title="TensorFlow"
+    alt="TensorFlow"
+    title="TensorFlow" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" 
@@ -140,6 +139,30 @@ Transformo interações digitais em experiências humanas e agora estou mergulha
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Plotly" 
+    title="Plotly"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" 
+/>
 
 <br/>
 <br/>
+###📚 Artigos publicados
+<a href="https://medium.com/@contatoanefreitas/curadoria-estrategica-o-que-a-observacao-de-baleias-pode-nos-ensinar-sobre-analise-de-dados-585a987d0fb0" target="_blank">
+    <img 
+        alt="Artigo: Teoria da Baleia para Análise de Dados" 
+        title="Clique para ler" 
+        src="https://custom-icon-badges.demolab.com/badge/-📊%20Teoria%20da%20Baleia%20para%20An%C3%A1lise%20de%20Dados-000000?style=for-the-badge&logo=medium&logoColor=white&labelColor=000000"
+    />
+</a>
+<br/>
+<a href="https://medium.com/@contatoanefreitas/10-passos-para-utilizar-machine-learning-para-prever-comportamentos-do-usuario-no-chatbot-013e75c8fc77" target="_blank">
+    <img 
+        alt="Artigo: Como prever comportamentos de usuários no Chatbot" 
+        title="Clique para ler" 
+        src="https://custom-icon-badges.demolab.com/badge/-🤖%20Como%20prever%20comportamentos%20de%20usu%C3%A1rios%20no%20Chatbot-000000?style=for-the-badge&logo=medium&logoColor=white&labelColor=000000"
+    />
+</a>
